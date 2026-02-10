@@ -23,7 +23,7 @@ This project demonstrates **SOLID principles**, **dependency injection**, **Swag
 http://localhost:5192/swagger/index.html
 
 ### Swagger Details
-##  URL Method - /api/medication/check-expiry
+##  URL Method - /api/medication/checkexpiration
 
 ## Body 
 ```json
