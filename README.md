@@ -1,4 +1,4 @@
-### Vet Medication Minimal API (.NET)
+### Medication MGMT Minimal API (.NET)
 
 A clean and modular **ASP.NET Core Minimal API** for managing veterinary medications.  
 This project demonstrates **SOLID principles**, **dependency injection**, **Swagger**
